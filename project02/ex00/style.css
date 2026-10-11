@@ -1,0 +1,19 @@
+.nav-container {
+display:flex;
+font-size:30px;
+justify-content:space-between;
+align-items:center;
+}
+
+.card-container 
+{
+display:flex;
+flex-direction:row;
+flex-wrap:wrap;
+gap:20px;
+}
+.card-container div {
+display:inline-flex;
+border: solid 1px ;
+
+}
